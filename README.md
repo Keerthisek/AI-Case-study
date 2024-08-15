@@ -55,11 +55,11 @@ and image and video processing to enrich the visual content.
 
 Software IT and AI
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* What have been the major trends and innovations of this field over the last few year?
 1. Facebook launches Meta AI
 2. It’s easier than ever to run Facebook Ads
 3. AI-powered Facebook Ad targeting brings big savings
-4. The Metaverse is taking off?
+4. The Metaverse is taking off.
 5. Facebook Marketplace is the new default
 6. Text posts get big engagement
 7. Facebook is the most popular social platform to find local businesses
@@ -127,3 +127,14 @@ capture potential leads, and boost sales of products or services.
 * Implementing more of AI and deep learning models. 
 
 * Marketing is all about the wide reach of customers with the right content, Facebook already has so many enchanced AI Algorithms implemented, but any further advancement is this field will only improve the company's strategy to more betterment. 
+
+## Sources
+[Wikipedia](www.wikipedia.com)
+
+[Ad creative](www.adcreative.ai)
+
+[Medium](www.medium.com)
+
+[mail chip](www.mailchip.com)
+
+[Blog FB](https://blog.hootsuite.com/facebook-trends/)
